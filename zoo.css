@@ -19,3 +19,7 @@ p {
 a {
     color: gray;
 }
+
+a {
+    cursor: pointer;
+}
